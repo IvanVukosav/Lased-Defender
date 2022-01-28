@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fde44d3dcb47034e8460255c097388b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathVFX: {fileID: 7239917880443806760, guid: 9925cd8a84bbe00498c6a2ed6b9a7b2e,
+      type: 3}
+  - hitVFX: {instanceID: 0}
+  - DeathClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
